@@ -1,4 +1,4 @@
-Tous les documents cités sont consultables dans le depot
+Tous les documents cités sont consultables dans le dépot.
 
 # Test d'une API / rédaction cas de test 
 Ce TP a pour objectif de decouvrir une API, la tester et rédiger un plan de test et des cas de test.<br/>
