@@ -15,17 +15,17 @@ La base SQL a été installée sur serveur local
 Nous allons d'abord executer les differentes requetes avec Postman afin de comprendre l'API.<br/>
 Grace à la documentation nous connaissons les differentes syntaxes des GET, POST, PUT et DELETE<br/>
 <br/>
-![](postman.png)
+![](img/postman.png)
 
 #### **Rédaction des cas de test et plan de test** 
 Les reussites et les échecs rencontrés lors de notre phase exploratoire permettent de deduire les cas de test à mettre en place afin de couvrir l'ensemble des methodes.<br/> 
 <br/>
-![](casdetest.png)
+![](img/casdetest.png)
 
 #### Automatisation des tests
 Maintenant que nos test sont effectués et enregistrés dans Postman, la dernière étape est l'automatisation.<br/>
 Nous ajoutons à nos test des scripts JS afin de valider ou non la réponse renvoyée par le serveur et donc valider ou non nos tests.<br/>
 <br/>
-![](automatisation.png)
+![](img/automatisation.png)
 
 
