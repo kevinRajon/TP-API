@@ -11,13 +11,15 @@ L'API que nous utiliserons dans ce TP permet d'interagir avec une base SQL qui l
 La base SQL a été installée sur serveur local
 
 ### Deroulé du TP
-#### Test exploratoire/fonctionnel
+#### **Test exploratoire/fonctionnel**
 Nous allons d'abord executer les differentes requetes avec Postman afin de comprendre l'API.<br/>
 Grace à la documentation nous connaissons les differentes syntaxes des GET, POST, PUT et DELETE
 ![](postman.png)
 
-#### Rédaction des cas de test et plan de test 
-Maintenant que nous avons analysé le fonctionnement de l'API, nous pouvons en deduire les cas de test à mettre en place afin de couvrir l'ensemble des methodes.<br/>
+#### **Rédaction des cas de test et plan de test** 
+Les reussites et les échecs rencontrés lors de notre phase exploratoire permettent de deduire les cas de test à mettre en place afin de couvrir l'ensemble des methodes.<br/> 
+<br/>
+![](casdetest.png)
 
 
 
