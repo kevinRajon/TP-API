@@ -14,5 +14,10 @@ La base SQL a été installée sur serveur local
 #### Test exploratoire/fonctionnel
 Nous allons d'abord executer les differentes requetes avec Postman afin de comprendre l'API.<br/>
 Grace à la documentation nous connaissons les differentes syntaxes des GET, POST, PUT et DELETE
+![](postman.png)
+
+#### Rédaction des cas de test et plan de test 
+Maintenant que nous avons analysé le fonctionnement de l'API, nous pouvons en deduire les cas de test à mettre en place afin de couvrir l'ensemble des methodes.<br/>
+
 
 
